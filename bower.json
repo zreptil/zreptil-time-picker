@@ -1,5 +1,5 @@
 {
-  "name": "zeptil-time-picker",
+  "name": "zreptil-time-picker",
   "description": "a time picker element",
   "main": "zreptil-time-picker.html",
   "dependencies": {
