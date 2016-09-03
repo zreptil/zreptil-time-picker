@@ -1,7 +1,7 @@
 {
-  "name": "time-picker",
+  "name": "zeptil-time-picker",
   "description": "a time picker element",
-  "main": "time-picker.html",
+  "main": "zreptil-time-picker.html",
   "dependencies": {
     "polymer": "Polymer/polymer#^1.4.0",
     "paper-dialog": "polymerelements/paper-dialog#^1.1.0",
