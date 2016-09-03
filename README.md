@@ -1,4 +1,4 @@
-# \<time-picker\>
+# \<zreptil-time-picker\>
 
 a time picker element
 
